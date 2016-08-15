@@ -222,6 +222,12 @@ var rules = {
     "What do you think?",
     "What comes to your mind when you ask that?",
   ],
+  "~*x Lindsey ~*y": [
+  	"Ugh. Don't even mention her to me.",
+  	"She probably wants chocolate right now.",
+  	"If I had the chance, I would probably kill Lindsey.",
+  	"What a sweetie! I hate her for it.",
+  ],
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
